@@ -453,100 +453,86 @@ http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/35252.ts
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/35249.ts
 #EXTINF:-1 tvg-chno="227" tvg-id="SonyMoviesAction.uk" tvg-name="SonyMoviesAction.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="Movies",UK: Sony Movies Action
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/2214.ts
-#EXTINF:-1 tvg-chno="228" tvg-id="5StarMax.us" tvg-name="5StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Movies",USA: 5 StarMax
+#EXTINF:-1 tvg-chno="228" tvg-id="5StarMax.us" tvg-name="5StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Movies",5 StarMax
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13381.ts
-#EXTINF:-1 tvg-chno="229" tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-logo="" group-title="Movies",USA: ACTIONMAX
+#EXTINF:-1 tvg-chno="229" tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-logo="" group-title="Movies",ACTIONMAX
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/21013.ts
-#EXTINF:-1 tvg-chno="230" tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",USA: CINEMAX
+#EXTINF:-1 tvg-chno="230" tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",CINEMAX
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13380.ts
-#EXTINF:-1 tvg-chno="231" tvg-id="EPIX.us" tvg-name="EPIX" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",USA: Epix
+#EXTINF:-1 tvg-chno="231" tvg-id="EPIX.us" tvg-name="EPIX" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",Epix
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13214.ts
-#EXTINF:-1 tvg-chno="232" tvg-id="EPIXDriveIn.us" tvg-name="EPIXDriveIn" tvg-logo="https://logodix.com/logo/1104724.png" group-title="Movies",USA: EPIX DRIVE-IN
+#EXTINF:-1 tvg-chno="232" tvg-id="EPIXDriveIn.us" tvg-name="EPIXDriveIn" tvg-logo="https://logodix.com/logo/1104724.png" group-title="Movies",EPIX DRIVE-IN
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/14193.ts
-#EXTINF:-1 tvg-chno="233" tvg-id="EPIXHits.us" tvg-name="EPIXHits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Movies",USA: Epix Hits
+#EXTINF:-1 tvg-chno="233" tvg-id="EPIXHits.us" tvg-name="EPIXHits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Movies",Epix Hits
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/12744.ts
-#EXTINF:-1 tvg-chno="234" tvg-id="EPIX2.us" tvg-name="EPIX2" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",USA: EPIX2 HD-
+#EXTINF:-1 tvg-chno="234" tvg-id="EPIX2.us" tvg-name="EPIX2" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",EPIX2 HD-
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/12730.ts
-#EXTINF:-1 tvg-chno="235" tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",USA: HBO 1 HD
+#EXTINF:-1 tvg-chno="235" tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",HBO 1 HD
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9264.ts
-#EXTINF:-1 tvg-chno="236" tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",USA: HBO 2
+#EXTINF:-1 tvg-chno="236" tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",HBO 2
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9816.ts
-#EXTINF:-1 tvg-chno="237" tvg-id="HBOComedy.us" tvg-name="HBOComedy" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="Movies",USA: HBO COMEDY
+#EXTINF:-1 tvg-chno="237" tvg-id="HBOComedy.us" tvg-name="HBOComedy" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="Movies",HBO COMEDY
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17773.ts
-#EXTINF:-1 tvg-chno="238" tvg-id="HBOFamily.us" tvg-name="HBOFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",USA: HBO Family East
+#EXTINF:-1 tvg-chno="238" tvg-id="HBOFamily.us" tvg-name="HBOFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",HBO Family East
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17772.ts
-#EXTINF:-1 tvg-chno="239" tvg-id="HBOSignature.us" tvg-name="HBOSignature" tvg-logo="https://logodix.com/logo/1111252.png" group-title="Movies",USA: HBO Signature HD
+#EXTINF:-1 tvg-chno="239" tvg-id="HBOSignature.us" tvg-name="HBOSignature" tvg-logo="https://logodix.com/logo/1111252.png" group-title="Movies",HBO Signature HD
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9266.ts
-#EXTINF:-1 tvg-chno="240" tvg-id="HBOZone.us" tvg-name="HBOZone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",USA: HBO Zone
+#EXTINF:-1 tvg-chno="240" tvg-id="HBOZone.us" tvg-name="HBOZone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",HBO Zone
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9265.ts
-#EXTINF:-1 tvg-chno="241" tvg-id="HDNetMovies.us" tvg-name="HDNetMovies" tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="Movies",USA: HDNet Movies
+#EXTINF:-1 tvg-chno="241" tvg-id="HDNetMovies.us" tvg-name="HDNetMovies" tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="Movies",HDNet Movies
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/16265.ts
-#EXTINF:-1 tvg-chno="242" tvg-id="LifetimeMovies.us" tvg-name="LifetimeMovies" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="Movies",USA: LMN
+#EXTINF:-1 tvg-chno="242" tvg-id="LifetimeMovies.us" tvg-name="LifetimeMovies" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="Movies",LMN
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/20863.ts
-#EXTINF:-1 tvg-chno="243" tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",USA: MoreMax
+#EXTINF:-1 tvg-chno="243" tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",MoreMax
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17776.ts
-#EXTINF:-1 tvg-chno="244" tvg-id="MovieMax.us" tvg-name="MovieMax" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="Movies",USA: MovieMax
+#EXTINF:-1 tvg-chno="244" tvg-id="MovieMax.us" tvg-name="MovieMax" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="Movies",MovieMax
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13480.ts
-#EXTINF:-1 tvg-chno="245" tvg-id="MoviePlex.us" tvg-name="MoviePlex" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="Movies",USA: MoviePlex
+#EXTINF:-1 tvg-chno="245" tvg-id="MoviePlex.us" tvg-name="MoviePlex" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="Movies",MoviePlex
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/1829.ts
-#EXTINF:-1 tvg-chno="246" tvg-id="OuterMAX.us" tvg-name="OuterMAX" tvg-logo="" group-title="Movies",USA: OUTERMAX
+#EXTINF:-1 tvg-chno="246" tvg-id="OuterMAX.us" tvg-name="OuterMAX" tvg-logo="" group-title="Movies",OUTERMAX
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/21012.ts
-#EXTINF:-1 tvg-chno="247" tvg-id="RetroPlex.us" tvg-name="RetroPlex" tvg-logo="" group-title="Movies",USA: RetroPlex
+#EXTINF:-1 tvg-chno="247" tvg-id="RetroPlex.us" tvg-name="RetroPlex" tvg-logo="" group-title="Movies",RetroPlex
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66379.ts
-#EXTINF:-1 tvg-chno="248" tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="" group-title="Movies",USA: Showtime
+#EXTINF:-1 tvg-chno="248" tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="" group-title="Movies",Showtime
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/46214.ts
-#EXTINF:-1 tvg-chno="249" tvg-id="Showtime2.us" tvg-name="Showtime2" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="Movies",USA: Showtime 2
+#EXTINF:-1 tvg-chno="249" tvg-id="Showtime2.us" tvg-name="Showtime2" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="Movies",Showtime 2
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13219.ts
-#EXTINF:-1 tvg-chno="250" tvg-id="ShowtimeExtreme.us" tvg-name="ShowtimeExtreme" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",USA: Showtime EXTREME
+#EXTINF:-1 tvg-chno="250" tvg-id="ShowtimeExtreme.us" tvg-name="ShowtimeExtreme" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",Showtime EXTREME
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13220.ts
-#EXTINF:-1 tvg-chno="251" tvg-id="ShowtimeFamilyZone.us" tvg-name="ShowtimeFamilyZone" tvg-logo="" group-title="Movies",USA: Showtime Family Zone
+#EXTINF:-1 tvg-chno="251" tvg-id="ShowtimeFamilyZone.us" tvg-name="ShowtimeFamilyZone" tvg-logo="" group-title="Movies",Showtime Family Zone
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/13481.ts
-#EXTINF:-1 tvg-chno="252" tvg-id="ShowtimeShowcase.us" tvg-name="ShowtimeShowcase" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",USA: Showtime NEXT
+#EXTINF:-1 tvg-chno="252" tvg-id="ShowtimeShowcase.us" tvg-name="ShowtimeShowcase" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",Showtime NEXT
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9316.ts
-#EXTINF:-1 tvg-chno="253" tvg-id="ShowtimeWoman.us" tvg-name="ShowtimeWoman" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="Movies",USA: Showtime Women
+#EXTINF:-1 tvg-chno="253" tvg-id="ShowtimeWoman.us" tvg-name="ShowtimeWoman" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="Movies",Showtime Women
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17778.ts
-#EXTINF:-1 tvg-chno="254" tvg-id="STARZCinema.us" tvg-name="STARZCinema" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: Starz Cinema
+#EXTINF:-1 tvg-chno="254" tvg-id="STARZCinema.us" tvg-name="STARZCinema" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",Starz Cinema
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17775.ts
-#EXTINF:-1 tvg-chno="255" tvg-id="STARZComedy.us" tvg-name="STARZComedy" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: Starz Comedy
+#EXTINF:-1 tvg-chno="255" tvg-id="STARZComedy.us" tvg-name="STARZComedy" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",Starz Comedy
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9301.ts
-#EXTINF:-1 tvg-chno="256" tvg-id="STARZ.us" tvg-name="STARZ" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: STARZ EAST
+#EXTINF:-1 tvg-chno="256" tvg-id="STARZ.us" tvg-name="STARZ" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",STARZ EAST
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/9299.ts
-#EXTINF:-1 tvg-chno="257" tvg-id="STARZEdge.us" tvg-name="STARZEdge" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: STARZ EDGE
+#EXTINF:-1 tvg-chno="257" tvg-id="STARZEdge.us" tvg-name="STARZEdge" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",STARZ EDGE
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/16143.ts
-#EXTINF:-1 tvg-chno="258" tvg-id="STARZENCOREAction.us" tvg-name="STARZENCOREAction" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: Starz Encore Action
+#EXTINF:-1 tvg-chno="258" tvg-id="STARZENCOREAction.us" tvg-name="STARZENCOREAction" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",Starz Encore Action
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/16141.ts
-#EXTINF:-1 tvg-chno="259" tvg-id="STARZENCOREBlack.us" tvg-name="STARZENCOREBlack" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: STARZ ENCORE Black
+#EXTINF:-1 tvg-chno="259" tvg-id="STARZENCOREBlack.us" tvg-name="STARZENCOREBlack" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",STARZ ENCORE Black
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/16142.ts
-#EXTINF:-1 tvg-chno="260" tvg-id="STARZENCOREWesterns.us" tvg-name="STARZENCOREWesterns" tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",USA: STARZ ENCORE Westerns
+#EXTINF:-1 tvg-chno="260" tvg-id="STARZENCOREWesterns.us" tvg-name="STARZENCOREWesterns" tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",STARZ ENCORE Westerns
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/16263.ts
-#EXTINF:-1 tvg-chno="261" tvg-id="STARZInBlack.us" tvg-name="STARZInBlack" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: Starz in Black
+#EXTINF:-1 tvg-chno="261" tvg-id="STARZInBlack.us" tvg-name="STARZInBlack" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",Starz in Black
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17779.ts
-#EXTINF:-1 tvg-chno="262" tvg-id="STARZ.us" tvg-name="STARZ" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA: STARZ WEST
+#EXTINF:-1 tvg-chno="262" tvg-id="STARZ.us" tvg-name="STARZ" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",STARZ WEST
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/21091.ts
-#EXTINF:-1 tvg-chno="263" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",USA: THRILLERMAX
+#EXTINF:-1 tvg-chno="263" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",THRILLERMAX
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17774.ts
 #EXTINF:-1 tvg-chno="264" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/11645.ts
 #EXTINF:-1 tvg-chno="265" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK*
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66820.ts
-#EXTINF:-1 tvg-chno="266" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 01 | PRELIMS UFC Fight Night 7PM est/4PM pst
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83656.ts
-#EXTINF:-1 tvg-chno="267" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 02 | UFC Fight Night Cannonier v Gastelum 10PM est
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83657.ts
-#EXTINF:-1 tvg-chno="268" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/GmdTzDY0/image.png" group-title="PPV | UFC",PPV Event | 03 | Pacquiao v Ugas 9PM est
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83658.ts
-#EXTINF:-1 tvg-chno="269" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/GmdTzDY0/image.png" group-title="PPV | UFC",PPV Event | 04 | Pacquiao v Ugas 9PM est
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83659.ts
-#EXTINF:-1 tvg-chno="270" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/GmdTzDY0/image.png" group-title="PPV | UFC",PPV Event | 05 | Pacquiao v Ugas 9PM est
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83660.ts
-#EXTINF:-1 tvg-chno="271" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/GmdTzDY0/image.png" group-title="PPV | UFC",PPV Event | 06 | Pacquiao v Ugas 9PM est
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83661.ts
-#EXTINF:-1 tvg-chno="272" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",PPV Event | 07 | WWE SummerSlam 7PM
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83662.ts
-#EXTINF:-1 tvg-chno="273" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",PPV Event | 08 | WWE SummerSlam 7PM
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/83663.ts
-#EXTINF:-1 tvg-chno="274" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="" group-title="PPV | UFC",UFC FIGHT PASS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/58716.ts
+#EXTINF:-1 tvg-chno="266" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 01 | TBD
+http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83656
+#EXTINF:-1 tvg-chno="267" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 02 | TBD
+http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83657
 #EXTINF:-1 tvg-chno="275" tvg-id="ESPNNews.us" tvg-name="ESPNNews" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN News
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/17707.ts
 #EXTINF:-1 tvg-chno="276" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN HD
@@ -733,7 +719,7 @@ http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/35242.ts
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/76842.ts
 #EXTINF:-1 tvg-chno="367" tvg-id="(no tvg-id)" tvg-name="VSIN" tvg-logo="https://www.crossovermediagroup.com/wp-content/uploads/2018/09/vsin.png" group-title="Sports",VSIN^
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/18941.ts
-#EXTINF:-1 tvg-chno="368" tvg-id="rootsports.us" tvg-name="Root Sports" tvg-logo="" group-title="Sports",USA: Root Sports
+#EXTINF:-1 tvg-chno="368" tvg-id="rootsports.us" tvg-name="Root Sports" tvg-logo="" group-title="Sports",Root Sports
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/85232.ts
 #EXTINF:-1 tvg-chno="369" tvg-id="YesNetwork.us" tvg-name="YesNetwork" tvg-logo="" group-title="Sports",Yes Network
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/57972.ts
@@ -741,38 +727,39 @@ http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/57972.ts
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/21360.ts
 #EXTINF:-1 tvg-chno="371" tvg-id="MLBStrikeZone.us" tvg-name="MLBStrikeZone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/65699.ts
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="" group-title="MLB",MLB 01
+#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Mariners Vs Athletics (08.24 3:37 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66747.ts
-#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="" group-title="MLB",MLB 02
+#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Angels Vs Orioles (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66748.ts
-#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="" group-title="MLB",MLB 03
+#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Diamondbacks Vs Pirates (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66750.ts
-#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="" group-title="MLB",MLB 04
+#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rays Vs Phillies (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66752.ts
-#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="" group-title="MLB",MLB 05
+#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",White Sox Vs Blue Jays (08.24 7:07 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66753.ts
-#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="" group-title="MLB",MLB 06
+#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Twins Vs Red Sox (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66754.ts
-#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="" group-title="MLB",MLB 07
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Giants Vs Mets (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66756.ts
-#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="" group-title="MLB",MLB 08
+#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rangers Vs Indians (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66757.ts
-#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="" group-title="MLB",MLB 09
+#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Nationals Vs Marlins (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66758.ts
-#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="" group-title="MLB",MLB 10
+#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Yankees Vs Braves (08.24 7:20 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66759.ts
-#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="" group-title="MLB",MLB 11
+#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Tigers Vs Cardinals (08.24 7:45 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66760.ts
-#EXTINF:-1 tvg-chno="383" tvg-id="MLB.us" tvg-name="MLB12" tvg-logo="" group-title="MLB",MLB 12
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rockies Vs Cubs (08.24 8:05 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66761.ts
-#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="" group-title="MLB",MLB 13
+#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Reds Vs Brewers (08.24 8:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/66762.ts
-#EXTINF:-1 tvg-chno="385" tvg-id="(no tvg-id)" tvg-name="MLB14" tvg-logo="" group-title="MLB",MLB 14
+#EXTINF:-1 tvg-chno="385" tvg-id="MLB.us" tvg-name="MLB14" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Royals Vs Astros (08.24 8:10 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/98210.ts
-#EXTINF:-1 tvg-chno="386" tvg-id="(no tvg-id)" tvg-name="MLB15" tvg-logo="" group-title="MLB",MLB 15
+#EXTINF:-1 tvg-chno="386" tvg-id="MLB.us" tvg-name="MLB15" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Dodgers Vs San Diego (08.24 10:00 PM ET)
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/98211.ts
-#EXTINF:-1 tvg-chno="387" tvg-id="(no tvg-id)" tvg-name="MLB16" tvg-logo="" group-title="MLB",MLB 16
+#EXTINF:-1 tvg-chno="387" tvg-id="MLB.us" tvg-name="MLB16" tvg-logo="" group-title="MLB",N/A
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/98212.ts
+
 #EXTINF:-1 tvg-chno="388" tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://i.dlpng.com/static/png/6896102_preview.png" group-title="NBA",NBA TV
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/20073.ts
 #EXTINF:-1 tvg-chno="389" tvg-id="NBA.ca" tvg-name="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",NBA TV CA
@@ -871,7 +858,7 @@ http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/86758.ts
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/86759.ts
 #EXTINF:-1 tvg-chno="436" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",US: NBCSN2
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/86750.ts
-#EXTINF:-1 tvg-chno="437" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",USA: BEIN SPORTS LA LIGA2
+#EXTINF:-1 tvg-chno="437" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",BEIN SPORTS LA LIGA2
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/98198.ts
 #EXTINF:-1 tvg-chno="438" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="ESPN PLUS",ESPN + EVENT 00
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/79513.ts
@@ -925,233 +912,3 @@ http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/82620.ts
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/82743.ts
 #EXTINF:-1 tvg-chno="463" tvg-id="NBCPhiladelphia.us" tvg-name="NBCPhiladelphia" tvg-logo="https://i.postimg.cc/rdxW4SHq/image.png" group-title="NBC Backup",NBC - Philadelphia
 http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/82803.ts
-#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="ASMR FANTASY" tvg-logo="" group-title="XXX",ASMR FANTASY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77655.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="BABES" tvg-logo="" group-title="XXX",BABES
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77656.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="BABES UNLEASHED" tvg-logo="" group-title="XXX",BABES UNLEASHED
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77657.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="BAD DADDY POV" tvg-logo="" group-title="XXX",BAD DADDY POV
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77659.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="BAEB" tvg-logo="" group-title="XXX",BAEB
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77660.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="BANGBUS" tvg-logo="" group-title="XXX",BANGBUS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77661.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="" tvg-name="BIG NATURALS" tvg-logo="" group-title="XXX",BIG NATURALS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77663.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name="BIG TITS AT SCHOOL" tvg-logo="" group-title="XXX",BIG TITS AT SCHOOL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77664.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="BITCHES ABROAD" tvg-logo="" group-title="XXX",BITCHES ABROAD
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77665.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="BLACK GFS" tvg-logo="" group-title="XXX",BLACK GFS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77666.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="BLACK IS BETTER" tvg-logo="" group-title="XXX",BLACK IS BETTER
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77667.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="BLACKED" tvg-logo="" group-title="XXX",BLACKED
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77668.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="" tvg-name="BLACKED RAW" tvg-logo="" group-title="XXX",BLACKED RAW
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77669.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="" tvg-name="BLOW ME POV" tvg-logo="" group-title="XXX",BLOW ME POV
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77670.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="" tvg-name="BRATTY SIS" tvg-logo="" group-title="XXX",BRATTY SIS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77671.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="BRAZZERS EN ESPANOL" tvg-logo="" group-title="XXX",BRAZZERS EN ESPANOL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77672.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="BROKEN BABES" tvg-logo="" group-title="XXX",BROKEN BABES
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77673.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="" tvg-name="BROKEN MILF" tvg-logo="" group-title="XXX",BROKEN MILF
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77674.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="" tvg-name="CUM 4K" tvg-logo="" group-title="XXX",CUM 4K
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77675.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="" tvg-name="CUM FIESTA" tvg-logo="" group-title="XXX",CUM FIESTA
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77676.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="" tvg-name="DAD CRUSH" tvg-logo="" group-title="XXX",DAD CRUSH
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77677.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="DAUGHTER SWAP" tvg-logo="" group-title="XXX",DAUGHTER SWAP
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77678.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="DAY WITH A PORNSTAR" tvg-logo="" group-title="XXX",DAY WITH A PORNSTAR
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77679.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="DDF NETWORK" tvg-logo="" group-title="XXX",DDF NETWORK
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77682.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="DEEPER" tvg-logo="" group-title="XXX",DEEPER
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77680.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="DFD BUSTY" tvg-logo="" group-title="XXX",DFD BUSTY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77681.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="" tvg-name="DIGITAL PLAYGROUND" tvg-logo="" group-title="XXX",DIGITAL PLAYGROUND
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77683.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="DOG FART NETWORK" tvg-logo="" group-title="XXX",DOG FART NETWORK
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77684.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="DON'T BREAK ME" tvg-logo="" group-title="XXX",DON'T BREAK ME
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77685.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="ELEGANT ANAL" tvg-logo="" group-title="XXX",ELEGANT ANAL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77686.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="" tvg-name="ERITO" tvg-logo="" group-title="XXX",ERITO
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77687.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="EROTIC SPICE" tvg-logo="" group-title="XXX",EROTIC SPICE
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77688.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-name="EXOTIC 4K" tvg-logo="" group-title="XXX",EXOTIC 4K
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77689.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="EXXXTRA SMALL" tvg-logo="" group-title="XXX",EXXXTRA SMALL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77690.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="FAKE AGENT" tvg-logo="" group-title="XXX",FAKE AGENT
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77691.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="" tvg-name="FAKE AGENT UK" tvg-logo="" group-title="XXX",FAKE AGENT UK
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77692.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="" tvg-name="FAKE COP" tvg-logo="" group-title="XXX",FAKE COP
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77693.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="FAKE DRIVING SCHOOL" tvg-logo="" group-title="XXX",FAKE DRIVING SCHOOL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77694.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="FAKE HOSPITAL" tvg-logo="" group-title="XXX",FAKE HOSPITAL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77695.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="" tvg-name="FAKE HOSTEL" tvg-logo="" group-title="XXX",FAKE HOSTEL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77696.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="" tvg-name="FAKE TAXI" tvg-logo="" group-title="XXX",FAKE TAXI
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77697.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="" tvg-name="FAMILY SINNERS" tvg-logo="" group-title="XXX",FAMILY SINNERS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77698.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="" tvg-name="FAMILY STROKES" tvg-logo="" group-title="XXX",FAMILY STROKES
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77699.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="" tvg-name="FAMILY XXX" tvg-logo="" group-title="XXX",FAMILY XXX
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77700.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="" tvg-name="FEMALE AGENT" tvg-logo="" group-title="XXX",FEMALE AGENT
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77701.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="" tvg-name="FEMALE FAKE TAXI" tvg-logo="" group-title="XXX",FEMALE FAKE TAXI
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77702.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="" tvg-name="FEVER FILMS" tvg-logo="" group-title="XXX",FEVER FILMS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77703.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="FIRST ANAL QUEST" tvg-logo="" group-title="XXX",FIRST ANAL QUEST
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77704.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="" tvg-name="FITNESS ROOMS" tvg-logo="" group-title="XXX",FITNESS ROOMS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77705.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="" tvg-name="FORGIVE ME FATHER" tvg-logo="" group-title="XXX",FORGIVE ME FATHER
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77706.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="GF REGENVE" tvg-logo="" group-title="XXX",GF REGENVE
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77707.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="" tvg-name="GIRLS GONE PINK" tvg-logo="" group-title="XXX",GIRLS GONE PINK
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77708.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="GOTMYLF" tvg-logo="" group-title="XXX",GOTMYLF
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77709.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="" tvg-name="HENTAI" tvg-logo="" group-title="XXX",HENTAI
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77710.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="" tvg-name="HER LIMIT" tvg-logo="" group-title="XXX",HER LIMIT
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77711.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="" tvg-name="HOT WIFE XXX" tvg-logo="" group-title="XXX",HOT WIFE XXX
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77712.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="" tvg-name="I KNOW THAT GIRL" tvg-logo="" group-title="XXX",I KNOW THAT GIRL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77713.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="JAPAN LUST" tvg-logo="" group-title="XXX",JAPAN LUST
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77714.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="" tvg-name="JAV HUB" tvg-logo="" group-title="XXX",JAV HUB
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77715.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="" tvg-name="JAYS POV" tvg-logo="" group-title="XXX",JAYS POV
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77716.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="" tvg-name="JESH BY JESH" tvg-logo="" group-title="XXX",JESH BY JESH
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77717.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-name="KINKY SPA" tvg-logo="" group-title="XXX",KINKY SPA
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77718.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="" tvg-name="LETS DO IT" tvg-logo="" group-title="XXX",LETS DO IT
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77719.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="" tvg-name="LOVE HER ASS" tvg-logo="" group-title="XXX",LOVE HER ASS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77721.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="MASSAGE ROOMS" tvg-logo="" group-title="XXX",MASSAGE ROOMS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77722.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="MEAN GIRLS" tvg-logo="" group-title="XXX",MEAN GIRLS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77723.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="MILE HIGH" tvg-logo="" group-title="XXX",MILE HIGH
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77725.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="MILF HUNTER" tvg-logo="" group-title="XXX",MILF HUNTER
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77726.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="MOFOS B SIDES" tvg-logo="" group-title="XXX",MOFOS B SIDES
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77727.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="MOM KNOWS BEST" tvg-logo="" group-title="XXX",MOM KNOWS BEST
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77729.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="MOM TEACH SEX" tvg-logo="" group-title="XXX",MOM TEACH SEX
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77730.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="MONEY TALKS" tvg-logo="" group-title="XXX",MONEY TALKS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77731.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="MR LUCKY POV" tvg-logo="" group-title="XXX",MR LUCKY POV
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77732.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="MY 18 TEENS" tvg-logo="" group-title="XXX",MY 18 TEENS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77733.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="" tvg-name="MY DIRT HOBBY" tvg-logo="" group-title="XXX",MY DIRT HOBBY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77734.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="" tvg-name="MY FAMILY PIES" tvg-logo="" group-title="XXX",MY FAMILY PIES
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77735.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="MY FRIENDS HOT MOM" tvg-logo="" group-title="XXX",MY FRIENDS HOT MOM
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77736.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="" tvg-name="MY LIFE IN MIAMI" tvg-logo="" group-title="XXX",MY LIFE IN MIAMI
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77737.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="" tvg-name="MY PERVY FAMILY" tvg-logo="" group-title="XXX",MY PERVY FAMILY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77738.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="" tvg-name="MY VERY FIRST TIME" tvg-logo="" group-title="XXX",MY VERY FIRST TIME
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77739.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="" tvg-name="MYLF" tvg-logo="" group-title="XXX",MYLF
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77740.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="" group-title="XXX",NAUGHTY AMERICA
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77742.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="NF BUSTY" tvg-logo="" group-title="XXX",NF BUSTY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77743.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="" tvg-name="NUBILE FILMS" tvg-logo="" group-title="XXX",NUBILE FILMS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77744.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="" tvg-name="PERV MOM" tvg-logo="" group-title="XXX",PERV MOM
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77746.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="" tvg-name="PERVS ON PATROL" tvg-logo="" group-title="XXX",PERVS ON PATROL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77747.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="" tvg-name="PORNO ACADEMIE" tvg-logo="" group-title="XXX",PORNO ACADEMIE
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77748.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="" tvg-name="POVD" tvg-logo="" group-title="XXX",POVD
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77749.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="" tvg-name="PRESTIGE JAPAN" tvg-logo="" group-title="XXX",PRESTIGE JAPAN
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77750.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="" tvg-name="PRETTY DIRTY" tvg-logo="" group-title="XXX",PRETTY DIRTY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77751.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="PRIVATE" tvg-logo="" group-title="XXX",PRIVATE
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77752.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="PROPERTY SEX" tvg-logo="" group-title="XXX",PROPERTY SEX
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77753.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="PUBLIC AGENT" tvg-logo="" group-title="XXX",PUBLIC AGENT
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77754.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="PUBLIC PICKUPS" tvg-logo="" group-title="XXX",PUBLIC PICKUPS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77755.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="PURE18" tvg-logo="" group-title="XXX",PURE18
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77756.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="" tvg-name="RAW ATTACK" tvg-logo="" group-title="XXX",RAW ATTACK
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77757.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="" tvg-name="REAL EX GIRLFRIENDS" tvg-logo="" group-title="XXX",REAL EX GIRLFRIENDS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77758.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="" tvg-name="REAL SENSUAL" tvg-logo="" group-title="XXX",REAL SENSUAL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77759.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="" tvg-name="RK PRIME" tvg-logo="" group-title="XXX",RK PRIME
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77760.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="SELL YOUR GF" tvg-logo="" group-title="XXX",SELL YOUR GF
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77761.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="SEX WORKING" tvg-logo="" group-title="XXX",SEX WORKING
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77762.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="SHARE MY BF" tvg-logo="" group-title="XXX",SHARE MY BF
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77763.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-name="SIS LOVES ME" tvg-logo="" group-title="XXX",SIS LOVES ME
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77764.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="STEP MOM LESSONS" tvg-logo="" group-title="XXX",STEP MOM LESSONS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77765.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="" tvg-name="STEPSIBLINGS" tvg-logo="" group-title="XXX",STEPSIBLINGS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77766.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-name="SWALLOW SALON" tvg-logo="" group-title="XXX",SWALLOW SALON
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77768.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="" tvg-name="THE INNOCENCE OF YOUTH" tvg-logo="" group-title="XXX",THE INNOCENCE OF YOUTH
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77769.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="" tvg-name="TINY 4K" tvg-logo="" group-title="XXX",TINY 4K
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77770.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="" tvg-name="TONIGHTS GIRLFRIEND" tvg-logo="" group-title="XXX",TONIGHTS GIRLFRIEND
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77771.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="" tvg-name="TURNING TWISTYS" tvg-logo="" group-title="XXX",TURNING TWISTYS
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77772.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-name="TUSHY" tvg-logo="" group-title="XXX",TUSHY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77773.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="" tvg-name="TWISTYS ORIGINAL" tvg-logo="" group-title="XXX",TWISTYS ORIGINAL
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77774.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="VLOG XXX" tvg-logo="" group-title="XXX",VLOG XXX
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77776.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="WE LIVE TOGETHER" tvg-logo="" group-title="XXX",WE LIVE TOGETHER
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77777.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="WHEN GIRLS PLAY" tvg-logo="" group-title="XXX",WHEN GIRLS PLAY
-http://fortv.cc:8080/live/doemedia12@gmail.com/8hJq1b3y3m/77778.m3u8
