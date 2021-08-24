@@ -7,7 +7,7 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/59056.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/82346.ts
 #EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.us" tvg-name="AdultSwim" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",Adult Swim HD
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11644.ts
-#EXTINF:-1 tvg-chno="5" tvg-id="Altitude.Sports.and.Entertainment.HDTV.(ALTHD).us" tvg-name="AltitudeSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Altitude_Sports_logo.svg/revision/latest/scale-to-width-down/1000?cb=20181207042536" group-title="USA",Altitude Sports
+#EXTINF:-1 tvg-chno="5" tvg-id="altitudesports.us" tvg-name="altitudesports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Altitude_Sports_logo.svg/revision/latest/scale-to-width-down/1000?cb=20181207042536" group-title="USA",Altitude Sports
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79545.ts
 #EXTINF:-1 tvg-chno="6" tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA",AMC
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/18925.ts
@@ -341,8 +341,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9237.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9238.ts
 #EXTINF:-1 tvg-chno="171" tvg-id="WorldFishingNetwork.us" tvg-name="WorldFishingNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA",WORLD FISHING NETWORK HD
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/10477.ts
-
-
 #EXTINF:-1 tvg-chno="172" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="24/7 CHANNELS",Friends*
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66407.ts
 #EXTINF:-1 tvg-chno="173" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="24/7 CHANNELS",24/7: Dragon Ball Kai
@@ -435,8 +433,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83698.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83699.ts
 #EXTINF:-1 tvg-chno="217" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="24/7 CHANNELS",Knight Rider*
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83700.ts
-
-
 #EXTINF:-1 tvg-chno="218" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="Movies",UK:  SKY HITS
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/35255.ts
 #EXTINF:-1 tvg-chno="219" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="" group-title="Movies",UK: SKY 1 HD
@@ -529,8 +525,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17779.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21091.ts
 #EXTINF:-1 tvg-chno="263" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",THRILLERMAX
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17774.ts
-
-
 #EXTINF:-1 tvg-chno="264" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11645.ts
 #EXTINF:-1 tvg-chno="265" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK*
@@ -539,8 +533,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66820.ts
 http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83656
 #EXTINF:-1 tvg-chno="267" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 02 | TBD
 http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83657
-
-
 #EXTINF:-1 tvg-chno="275" tvg-id="ESPNNews.us" tvg-name="ESPNNews" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN News
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17707.ts
 #EXTINF:-1 tvg-chno="276" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN HD
@@ -571,89 +563,89 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9273.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20927.ts
 #EXTINF:-1 tvg-chno="289" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://toppng.com/uploads/preview/australian-flag-logo-png-transparent-australia-flag-vector-11563230373ezhgc02cfp.png" group-title="Sports",AU-RACING
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/19937.ts
-#EXTINF:-1 tvg-chno="290" tvg-id="FoxSportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Detroit
+#EXTINF:-1 tvg-chno="290" tvg-id="3abn.latino.houston.tx.us" tvg-name="Bally Sports Detroit" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Detroit
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20930.ts
-#EXTINF:-1 tvg-chno="291" tvg-id="FOXSportsIndiana.us" tvg-name="Bally Sports Indiana" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Indiana
+#EXTINF:-1 tvg-chno="291" tvg-id="fox.sports.indiana.us" tvg-name="Bally Sports Indiana" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Indiana
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/41840.ts
-#EXTINF:-1 tvg-chno="292" tvg-id="FoxSportsMidwest.us" tvg-name="Bally Sports Mid West" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Mid West
+#EXTINF:-1 tvg-chno="292" tvg-id="fox.sports.midwest.us" tvg-name="Bally Sports Mid West" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Mid West
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66795.ts
-#EXTINF:-1 tvg-chno="293" tvg-id="FoxSportsOhio.us" tvg-name="Bally Sports Ohio" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Ohio
+#EXTINF:-1 tvg-chno="293" tvg-id="3abn.latino.houston.tx.us" tvg-name="Bally Sports Ohio" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Ohio
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20933.ts
-#EXTINF:-1 tvg-chno="294" tvg-id="FoxSportsOklahoma.us" tvg-name="Bally Sports Oklahoma" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Oklahoma
+#EXTINF:-1 tvg-chno="294" tvg-id="fox.sports.oklahoma.us" tvg-name="Bally Sports Oklahoma" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Oklahoma
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20934.ts
-#EXTINF:-1 tvg-chno="295" tvg-id="FoxSportsSoutheast.us" tvg-name="Bally Sports Southeast" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southeast
+#EXTINF:-1 tvg-chno="295" tvg-id="(no tvg-id)" tvg-name="Bally Sports Southeast" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southeast
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/81111.ts
-#EXTINF:-1 tvg-chno="296" tvg-id="FoxSportsSoutheast.us" tvg-name="Bally Sports Southeast" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southeast*
+#EXTINF:-1 tvg-chno="296" tvg-id="fox.sports.south.us" tvg-name="Bally Sports Southeast" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southeast
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/2213.ts
-#EXTINF:-1 tvg-chno="297" tvg-id="FoxSportsSouthwest.us" tvg-name="Bally Sports Southwest" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southwest
+#EXTINF:-1 tvg-chno="297" tvg-id="3abn.latino.houston.tx.us" tvg-name="Bally Sports Southwest" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Southwest
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21843.ts
-#EXTINF:-1 tvg-chno="298" tvg-id="FoxSportsWest.us" tvg-name="Bally Sports West" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports West
+#EXTINF:-1 tvg-chno="298" tvg-id="fox.sports.southwest.us" tvg-name="Bally Sports West" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports West
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20932.ts
-#EXTINF:-1 tvg-chno="299" tvg-id="FoxSportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Wisconsin
+#EXTINF:-1 tvg-chno="299" tvg-id="(no tvg-id)" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.postimg.cc/MKLDSSsc/Bally-Sports.png" group-title="Sports",Bally Sports Wisconsin
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/78599.ts
-#EXTINF:-1 tvg-chno="300" tvg-id="BigTenNetwork.us" tvg-name="BIG TEN NETWORK" tvg-logo="https://btn.com/wp-content/uploads/2019/12/btn.png" group-title="Sports",BIG TEN NETWORK
+#EXTINF:-1 tvg-chno="300" tvg-id="big.ten.network.us" tvg-name="BIG TEN NETWORK" tvg-logo="https://btn.com/wp-content/uploads/2019/12/btn.png" group-title="Sports",BIG TEN NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9828.ts
-#EXTINF:-1 tvg-chno="301" tvg-id="Sportsnet360.ca" tvg-name="CA: Sportsnet 360" tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="Sports",CA: Sportsnet 360
+#EXTINF:-1 tvg-chno="301" tvg-id="sportsnet.360.ca" tvg-name="CA: Sportsnet 360" tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="Sports",CA: Sportsnet 360
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/2219.ts
-#EXTINF:-1 tvg-chno="302" tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="Sports",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-chno="302" tvg-id="cbs.sports.network.usa.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="Sports",CBS SPORTS NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/10454.ts
-#EXTINF:-1 tvg-chno="303" tvg-id="ElevenSports.us" tvg-name="Eleven Sports Network" tvg-logo="" group-title="Sports",Eleven Sports Network
+#EXTINF:-1 tvg-chno="303" tvg-id="3abn.latino.houston.tx.us" tvg-name="Eleven Sports Network" tvg-logo="" group-title="Sports",Eleven Sports Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/35264.ts
 #EXTINF:-1 tvg-chno="304" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Sports",F1 TV : F2 Practise / Qualifying / Main Race
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/77779.ts
-#EXTINF:-1 tvg-chno="305" tvg-id="FoxSportsArizona.us" tvg-name="Fox Sports Arizona" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports Arizona
+#EXTINF:-1 tvg-chno="305" tvg-id="fox.sports.arizona.us" tvg-name="Fox Sports Arizona" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports Arizona
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20928.ts
-#EXTINF:-1 tvg-chno="306" tvg-id="Fox.Sports.Carolinas.Alternate.HDTV.DirecTV.(FSCRHD).us" tvg-name="Fox Sports Carolinas" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports Carolinas
+#EXTINF:-1 tvg-chno="306" tvg-id="(no tvg-id)" tvg-name="FOX SPORTS CAROLINAS" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",FOX SPORTS CAROLINAS
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20929.ts
-#EXTINF:-1 tvg-chno="307" tvg-id="FoxSportsFlorida.us" tvg-name="Fox Sports Florida" tvg-logo="" group-title="Sports",Fox Sports Florida
+#EXTINF:-1 tvg-chno="307" tvg-id="3abn.latino.houston.tx.us" tvg-name="Fox Sports Florida" tvg-logo="" group-title="Sports",Fox Sports Florida
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/46794.ts
-#EXTINF:-1 tvg-chno="308" tvg-id="FoxSportsNorth.us" tvg-name="Fox Sports North" tvg-logo="" group-title="Sports",Fox Sports North
+#EXTINF:-1 tvg-chno="308" tvg-id="fox.sports.north.us" tvg-name="Fox Sports North" tvg-logo="" group-title="Sports",Fox Sports North
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/58827.ts
-#EXTINF:-1 tvg-chno="309" tvg-id="FoxSports.southeast.north.carolina.us" tvg-name="FOX SPORTS NORTH CAROLINA" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",FOX SPORTS NORTH CAROLINA
+#EXTINF:-1 tvg-chno="309" tvg-id="fox.sports.southeast.north.carolina.us" tvg-name="FOX SPORTS NORTH CAROLINA" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",FOX SPORTS NORTH CAROLINA
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20931.ts
-#EXTINF:-1 tvg-chno="310" tvg-id="FoxSportsPrimeTicket.us" tvg-name="Fox Sports Prime Ticket" tvg-logo="" group-title="Sports",Fox Sports Prime Ticket
+#EXTINF:-1 tvg-chno="310" tvg-id="3abn.latino.houston.tx.us" tvg-name="Fox Sports Prime Ticket" tvg-logo="" group-title="Sports",Fox Sports Prime Ticket
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/36398.ts
-#EXTINF:-1 tvg-chno="311" tvg-id="FoxSportsSanDiego" tvg-name="Fox Sports San Diego" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports San Diego
+#EXTINF:-1 tvg-chno="311" tvg-id="3abn.latino.houston.tx.us" tvg-name="Fox Sports San Diego" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports San Diego
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20935.ts
-#EXTINF:-1 tvg-chno="312" tvg-id="FoxSportsSouth.us" tvg-name="FOX SPORTS SOUTH" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="Sports",FOX SPORTS SOUTH
+#EXTINF:-1 tvg-chno="312" tvg-id="fox.sports.south.us" tvg-name="FOX SPORTS SOUTH" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="Sports",FOX SPORTS SOUTH
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20922.ts
-#EXTINF:-1 tvg-chno="313" tvg-id="FoxSportsSun.us" tvg-name="Fox Sports Sun" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports Sun
+#EXTINF:-1 tvg-chno="313" tvg-id="fox.sports.sun.us" tvg-name="Fox Sports Sun" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports",Fox Sports Sun
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20936.ts
-#EXTINF:-1 tvg-chno="314" tvg-id="SportsTime.Ohio.HDTV.(STOHD).us" tvg-name="SportsTime Ohio" tvg-logo="" group-title="Sports",Sportstime Ohio
+#EXTINF:-1 tvg-chno="314" tvg-id="sportstime.ohio.us" tvg-name="Fox Sportstime Ohio" tvg-logo="" group-title="Sports",Fox Sportstime Ohio
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17752.ts
-#EXTINF:-1 tvg-chno="315" tvg-id="MarqueeSportsNetwork.us" tvg-name="MARQUEE SPORTS NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="Sports",MARQUEE SPORTS NETWORK
+#EXTINF:-1 tvg-chno="315" tvg-id="marquee.sports.network.us" tvg-name="MARQUEE SPORTS NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="Sports",MARQUEE SPORTS NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/13379.ts
-#EXTINF:-1 tvg-chno="316" tvg-id="MavTV.us" tvg-name="MAV TV" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="Sports",MAV TV
+#EXTINF:-1 tvg-chno="316" tvg-id="mavtv.usa.us" tvg-name="MAV TV" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="Sports",MAV TV
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20977.ts
 #EXTINF:-1 tvg-chno="317" tvg-id="MSGZone1.us" tvg-name="MSG HD" tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="Sports",MSG HD
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9276.ts
 #EXTINF:-1 tvg-chno="318" tvg-id="MSGPlusZone1.us" tvg-name="MSG PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png" group-title="Sports",MSG PLUS
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21090.ts
-#EXTINF:-1 tvg-chno="319" tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="Sports",NATIONAL | TUDN
+#EXTINF:-1 tvg-chno="319" tvg-id="tudn.us" tvg-name="TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="Sports",NATIONAL | TUDN
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21644.ts
-#EXTINF:-1 tvg-chno="320" tvg-id="NBCAustin" tvg-name="NBC AUSTIN" tvg-logo="" group-title="Sports",NBC AUSTIN
+#EXTINF:-1 tvg-chno="320" tvg-id="(no tvg-id)" tvg-name="NBC AUSTIN" tvg-logo="" group-title="Sports",NBC AUSTIN
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17749.ts
 #EXTINF:-1 tvg-chno="321" tvg-id="GolfChannel.ca" tvg-name="NBC GOLF" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="Sports",NBC GOLF
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9806.ts
-#EXTINF:-1 tvg-chno="322" tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Bay Area
+#EXTINF:-1 tvg-chno="322" tvg-id="nbc.sports.bay.area.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Bay Area
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9900.ts
-#EXTINF:-1 tvg-chno="323" tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston
+#EXTINF:-1 tvg-chno="323" tvg-id="nbc.sports.boston.us" tvg-name="NBC Sports Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20939.ts
-#EXTINF:-1 tvg-chno="324" tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="Sports",NBC Sports California
+#EXTINF:-1 tvg-chno="324" tvg-id="nbc.sports.california.us" tvg-name="NBC Sports California" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="Sports",NBC Sports California
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20940.ts
-#EXTINF:-1 tvg-chno="325" tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="Sports",NBC Sports Chicago
+#EXTINF:-1 tvg-chno="325" tvg-id="nbc.sports.chicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="Sports",NBC Sports Chicago
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20941.ts
-#EXTINF:-1 tvg-chno="326" tvg-id="NBCSports.us" tvg-name="NBC Sports Network" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="Sports",NBC Sports Network
+#EXTINF:-1 tvg-chno="326" tvg-id="nbc.sports.california.us" tvg-name="NBC Sports Network" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="Sports",NBC Sports Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20926.ts
-#EXTINF:-1 tvg-chno="327" tvg-id="NBCSportsNorthWest.us" tvg-name="NBC Sports Northwest" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Northwest
+#EXTINF:-1 tvg-chno="327" tvg-id="nbc.sports.network.us" tvg-name="NBC Sports Northwest" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Northwest
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/9230.ts
-#EXTINF:-1 tvg-chno="328" tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philly" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="Sports",NBC Sports Philly
+#EXTINF:-1 tvg-chno="328" tvg-id="(no tvg-id)" tvg-name="NBC Sports Philly" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="Sports",NBC Sports Philly
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20943.ts
-#EXTINF:-1 tvg-chno="329" tvg-id="NBCSportsWashington.us" tvg-name="NBC Sports Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Sports",NBC Sports Washington
+#EXTINF:-1 tvg-chno="329" tvg-id="nbc.sports.washington.us" tvg-name="NBC Sports Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Sports",NBC Sports Washington
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20944.ts
-#EXTINF:-1 tvg-chno="330" tvg-id="NBCSports.us" tvg-name="NBCSN" tvg-logo="" group-title="Sports",NBCSN
+#EXTINF:-1 tvg-chno="330" tvg-id="nbc.sports.network.us" tvg-name="NBCSN" tvg-logo="" group-title="Sports",NBCSN
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/46725.ts
-#EXTINF:-1 tvg-chno="331" tvg-id="NBCSportsNorthWest.us" tvg-name="NBCSN Northwest" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/northwest/2017/08/23/nbcsportsnw.png" group-title="Sports",NBCSN Northwest
+#EXTINF:-1 tvg-chno="331" tvg-id="(no tvg-id)" tvg-name="NBCSN Northwest" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/northwest/2017/08/23/nbcsportsnw.png" group-title="Sports",NBCSN Northwest
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20942.ts
 #EXTINF:-1 tvg-chno="332" tvg-id="olympic.us" tvg-name="Olympic Channel" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61d6OEJK4ML.png" group-title="Sports",Olympic Channel
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/10506.ts
@@ -731,26 +723,42 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/18941.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/85232.ts
 #EXTINF:-1 tvg-chno="369" tvg-id="YesNetwork.us" tvg-name="YesNetwork" tvg-logo="" group-title="Sports",Yes Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/57972.ts
-
-
-#EXTINF:-1 tvg-chno="370" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",MLB Network
+#EXTINF:-1 tvg-chno="370" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="" group-title="MLB",MLB Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21360.ts
 #EXTINF:-1 tvg-chno="371" tvg-id="MLBStrikeZone.us" tvg-name="MLBStrikeZone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/65699.ts
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo=https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png"" group-title="MLB",3:30pm ET | Seattle @ Oakland
+#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Mariners Vs Athletics (08.24 3:37 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66747.ts
-#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",6:00pm ET | Angels @ Orioles
+#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Angels Vs Orioles (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66748.ts
-#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",6:00pm ET | Rays @ Phillies
+#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Diamondbacks Vs Pirates (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66750.ts
-#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",6:00pm ET | Diamondbacks @ Pirates
+#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rays Vs Phillies (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66752.ts
-#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",6:00pm ET | White Sox @ Blue Jays
+#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",White Sox Vs Blue Jays (08.24 7:07 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66753.ts
-#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png" group-title="MLB",6:00pm ET | Twins @ Red Sox
+#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Twins Vs Red Sox (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66754.ts
-
-
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Giants Vs Mets (08.24 7:10 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66756.ts
+#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rangers Vs Indians (08.24 7:10 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66757.ts
+#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Nationals Vs Marlins (08.24 7:10 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66758.ts
+#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Yankees Vs Braves (08.24 7:20 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66759.ts
+#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Tigers Vs Cardinals (08.24 7:45 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66760.ts
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rockies Vs Cubs (08.24 8:05 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66761.ts
+#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Reds Vs Brewers (08.24 8:10 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66762.ts
+#EXTINF:-1 tvg-chno="385" tvg-id="MLB.us" tvg-name="MLB14" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Royals Vs Astros (08.24 8:10 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98210.ts
+#EXTINF:-1 tvg-chno="386" tvg-id="MLB.us" tvg-name="MLB15" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Dodgers Vs San Diego (08.24 10:00 PM ET)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98211.ts
+#EXTINF:-1 tvg-chno="387" tvg-id="MLB.us" tvg-name="MLB16" tvg-logo="" group-title="MLB",N/A
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98212.ts
 
 #EXTINF:-1 tvg-chno="388" tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://i.dlpng.com/static/png/6896102_preview.png" group-title="NBA",NBA TV
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20073.ts
@@ -764,12 +772,8 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/1836.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83724.ts
 #EXTINF:-1 tvg-chno="393" tvg-id="NFLRedZone.us" tvg-name="NFLRedZone" tvg-logo="https://www.pngfind.com/pngs/m/20-204118_nfl-redzone-nfl-red-zone-logo-hd-png.png" group-title="NFL",NFL REDZONE (US)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/84529.ts
-
-
 #EXTINF:-1 tvg-chno="394" tvg-id="NHL.us" tvg-name="NHL" tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="NHL",NHL NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20179.ts
-
-
 #EXTINF:-1 tvg-chno="395" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD (Eng)2
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/86757.ts
 #EXTINF:-1 tvg-chno="396" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD2
@@ -856,8 +860,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/86759.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/86750.ts
 #EXTINF:-1 tvg-chno="437" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",BEIN SPORTS LA LIGA2
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98198.ts
-
-
 #EXTINF:-1 tvg-chno="438" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="ESPN PLUS",ESPN + EVENT 00
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79513.ts
 #EXTINF:-1 tvg-chno="439" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="ESPN PLUS",ESPN + EVENT 01
@@ -870,8 +872,6 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79516.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79517.ts
 #EXTINF:-1 tvg-chno="443" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="ESPN PLUS",ESPN + EVENT 05
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79518.ts
-
-
 #EXTINF:-1 tvg-chno="444" tvg-id="ABCChicago.us" tvg-name="ABCChicago" tvg-logo="https://i.postimg.cc/85DYztfK/image.png" group-title="ABC Backup",ABC - Chicago
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/82348.ts
 #EXTINF:-1 tvg-chno="445" tvg-id="ABCDallas.us" tvg-name="ABCDallas" tvg-logo="https://i.postimg.cc/85DYztfK/image.png" group-title="ABC Backup",ABC - Dallas
