@@ -733,18 +733,19 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/85232.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/57972.ts
 
 
-#EXTINF:-1 tvg-chno="370" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="" group-title="MLB",MLB Network
-http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21360.ts
-#EXTINF:-1 tvg-chno="371" tvg-id="MLBStrikeZone.us" tvg-name="MLBStrikeZone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
-http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/65699.ts
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="" group-title="MLB",Seattle @ Oakland 3:37 pm ET
+#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="" group-title="MLB",3:30pm ET | Seattle @ Oakland
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66747.ts
-#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="" group-title="MLB",LAA @ BAL
+#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="" group-title="MLB",6:00pm ET | Angels @ Orioles
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66748.ts
-#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="" group-title="MLB",TB @ PHI
+#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="" group-title="MLB",6:00pm ET | Rays @ Phillies
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66750.ts
-#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="" group-title="MLB",ARI @ PIT
+#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="" group-title="MLB",6:00pm ET | Diamondbacks @ Pirates
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66752.ts
+#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="" group-title="MLB",6:00pm ET | White Sox @ Blue Jays
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66753.ts
+#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="" group-title="MLB",6:00pm ET | Twins @ Red Sox
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66754.ts
+
 
 
 #EXTINF:-1 tvg-chno="388" tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://i.dlpng.com/static/png/6896102_preview.png" group-title="NBA",NBA TV
