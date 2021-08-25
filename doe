@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://bit.ly/MediaDoeList" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="https://bit.ly/3mxJ5qr" tvg-shift=0 m3uautoload=2
 #EXTINF:-1 tvg-chno="1" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/41838.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E*
