@@ -1,12 +1,12 @@
-#EXTM3U url-tvg="https://bit.ly/MediaDoeList" tvg-shift=0 m3uautoload=1 
-#EXTM3U url-tvg="https://bit.ly/3mxJ5qr" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://bit.ly/MediaDoeList" 
+#EXTM3U url-tvg="https://bit.ly/3mxJ5qr"
 #EXTINF:-1 tvg-chno="1" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/41838.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E*
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/59056.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://i.postimg.cc/85DYztfK/image.png" group-title="USA",ABC
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/82346.ts
-#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.us" tvg-name="AdultSwim" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",Adult Swim HD
+#EXTINF:-1 tvg-chno="4" tvg-id="Cartoon.Network.(East).(TOON).us" tvg-name="AdultSwim" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",Adult Swim HD
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11644.ts
 #EXTINF:-1 tvg-chno="5" tvg-id="altitudesports.us" tvg-name="altitudesports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Altitude_Sports_logo.svg/revision/latest/scale-to-width-down/1000?cb=20181207042536" group-title="USA",Altitude Sports
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/79545.ts
@@ -38,11 +38,11 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/48323.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20859.ts
 #EXTINF:-1 tvg-chno="19" tvg-id="Buzzr.us" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s93430_dark_360w_270h.png" group-title="USA",Buzzr TV
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21896.ts
-#EXTINF:-1 tvg-chno="20" tvg-id="CartoonNetwork" tvg-name="CartoonNetwork.us" tvg-logo="https://i.postimg.cc/w1tDqKcy/image.png" group-title="USA",Cartoon Network
+#EXTINF:-1 tvg-chno="20" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/w1tDqKcy/image.png" group-title="USA",Cartoon Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/46708.ts
-#EXTINF:-1 tvg-chno="21" tvg-id="" tvg-name="CBS - EAST" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - EAST
+#EXTINF:-1 tvg-chno="21" tvg-id="CBSNY.us" tvg-name="CBS - EAST" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - EAST
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/81300.ts
-#EXTINF:-1 tvg-chno="22" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - WEST
+#EXTINF:-1 tvg-chno="22" tvg-id="CBSLA.us" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - WEST
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/81298.ts
 #EXTINF:-1 tvg-chno="23" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="USA",CBSN News
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21259.ts
