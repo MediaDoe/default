@@ -723,47 +723,56 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/18941.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/85232.ts
 #EXTINF:-1 tvg-chno="369" tvg-id="YesNetwork.us" tvg-name="YesNetwork" tvg-logo="" group-title="Sports",Yes Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/57972.ts
+
+
+
+
 #EXTINF:-1 tvg-chno="370" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="" group-title="MLB",MLB Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21360.ts
 #EXTINF:-1 tvg-chno="371" tvg-id="MLBStrikeZone.us" tvg-name="MLBStrikeZone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/65699.ts
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Mariners Vs Athletics (08.24 3:37 PM ET)
+#EXTINF:-1 tvg-chno="372" tvg-id="" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Mariners Vs Athletics (08.24 3:37 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66747.ts
-#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Angels Vs Orioles (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="373" tvg-id="" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Angels Vs Orioles (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66748.ts
-#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Diamondbacks Vs Pirates (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="374" tvg-id="" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Diamondbacks Vs Pirates (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66750.ts
-#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rays Vs Phillies (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="375" tvg-id="" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rays Vs Phillies (08.24 7:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66752.ts
-#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",White Sox Vs Blue Jays (08.24 7:07 PM ET)
+#EXTINF:-1 tvg-chno="376" tvg-id="" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",White Sox Vs Blue Jays (08.24 7:07 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66753.ts
-#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Twins Vs Red Sox (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="377" tvg-id="" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Twins Vs Red Sox (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66754.ts
-#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Giants Vs Mets (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="378" tvg-id="" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Giants Vs Mets (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66756.ts
-#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rangers Vs Indians (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="379" tvg-id="" tvg-name="MLB8" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rangers Vs Indians (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66757.ts
-#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Nationals Vs Marlins (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="380" tvg-id="" tvg-name="MLB9" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Nationals Vs Marlins (08.24 7:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66758.ts
-#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Yankees Vs Braves (08.24 7:20 PM ET)
+#EXTINF:-1 tvg-chno="381" tvg-id="" tvg-name="MLB10" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Yankees Vs Braves (08.24 7:20 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66759.ts
-#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Tigers Vs Cardinals (08.24 7:45 PM ET)
+#EXTINF:-1 tvg-chno="382" tvg-id="" tvg-name="MLB11" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Tigers Vs Cardinals (08.24 7:45 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66760.ts
-#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rockies Vs Cubs (08.24 8:05 PM ET)
+#EXTINF:-1 tvg-chno="378" tvg-id="" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rockies Vs Cubs (08.24 8:05 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66761.ts
-#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Reds Vs Brewers (08.24 8:10 PM ET)
+#EXTINF:-1 tvg-chno="384" tvg-id="" tvg-name="MLB13" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Reds Vs Brewers (08.24 8:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66762.ts
-#EXTINF:-1 tvg-chno="385" tvg-id="MLB.us" tvg-name="MLB14" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Royals Vs Astros (08.24 8:10 PM ET)
+#EXTINF:-1 tvg-chno="385" tvg-id="" tvg-name="MLB14" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Royals Vs Astros (08.24 8:10 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98210.ts
-#EXTINF:-1 tvg-chno="386" tvg-id="MLB.us" tvg-name="MLB15" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Dodgers Vs San Diego (08.24 10:00 PM ET)
+#EXTINF:-1 tvg-chno="386" tvg-id="" tvg-name="MLB15" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Dodgers Vs San Diego (08.24 10:00 PM ET)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98211.ts
-#EXTINF:-1 tvg-chno="387" tvg-id="MLB.us" tvg-name="MLB16" tvg-logo="" group-title="MLB",N/A
+#EXTINF:-1 tvg-chno="387" tvg-id="" tvg-name="MLB16" tvg-logo="" group-title="MLB",N/A
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/98212.ts
+
+
 
 #EXTINF:-1 tvg-chno="388" tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://i.dlpng.com/static/png/6896102_preview.png" group-title="NBA",NBA TV
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20073.ts
 #EXTINF:-1 tvg-chno="389" tvg-id="NBA.ca" tvg-name="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",NBA TV CA
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/22995.ts
+
+
+
 #EXTINF:-1 tvg-chno="390" tvg-id="NFL.us" tvg-name="NFL" tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",NFL Network
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83725.ts
 #EXTINF:-1 tvg-chno="391" tvg-id="NFL.us" tvg-name="NFL" tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",NFL Network*
@@ -772,8 +781,16 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/1836.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83724.ts
 #EXTINF:-1 tvg-chno="393" tvg-id="NFLRedZone.us" tvg-name="NFLRedZone" tvg-logo="https://www.pngfind.com/pngs/m/20-204118_nfl-redzone-nfl-red-zone-logo-hd-png.png" group-title="NFL",NFL REDZONE (US)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/84529.ts
+
+
+
+
 #EXTINF:-1 tvg-chno="394" tvg-id="NHL.us" tvg-name="NHL" tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="NHL",NHL NETWORK
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/20179.ts
+
+
+
+
 #EXTINF:-1 tvg-chno="395" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD (Eng)2
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/86757.ts
 #EXTINF:-1 tvg-chno="396" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD2
