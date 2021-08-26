@@ -1,11 +1,12 @@
-#EXTM3U
+#EXTM3U url-tvg="https://bit.ly/MediaDoeList" 
+#EXTM3U url-tvg="https://bit.ly/3mxJ5qr"
 #EXTINF:-1 tvg-chno="1" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/41838.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="AandE.us" tvg-name="AandE" tvg-logo="https://i.postimg.cc/CLrstNtM/image.png" group-title="USA",A&E*
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/59056.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://i.postimg.cc/85DYztfK/image.png" group-title="USA",ABC
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/82346.ts
-#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.us" tvg-name="AdultSwim" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",Adult Swim HD
+#EXTINF:-1 tvg-chno="4" tvg-id="Cartoon.Network.(East).(TOON).us" tvg-name="AdultSwim" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",Adult Swim HD
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/11644.ts
 #EXTINF:-1 tvg-chno="5" tvg-id="altitudesports.us" tvg-name="altitudesports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Altitude_Sports_logo.svg/revision/latest/scale-to-width-down/1000?cb=20181207042536" group-title="USA",Altitude Sports
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/79545.ts
@@ -37,11 +38,11 @@ http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/48323.ts
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/20859.ts
 #EXTINF:-1 tvg-chno="19" tvg-id="Buzzr.us" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s93430_dark_360w_270h.png" group-title="USA",Buzzr TV
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/21896.ts
-#EXTINF:-1 tvg-chno="20" tvg-id="CartoonNetwork" tvg-name="CartoonNetwork.us" tvg-logo="https://i.postimg.cc/w1tDqKcy/image.png" group-title="USA",Cartoon Network
+#EXTINF:-1 tvg-chno="20" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/w1tDqKcy/image.png" group-title="USA",Cartoon Network
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/46708.ts
-#EXTINF:-1 tvg-chno="21" tvg-id="" tvg-name="CBS - EAST" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - EAST
+#EXTINF:-1 tvg-chno="21" tvg-id="CBSNY.us" tvg-name="CBS - EAST" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - EAST
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/81300.ts
-#EXTINF:-1 tvg-chno="22" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - WEST
+#EXTINF:-1 tvg-chno="22" tvg-id="CBSLA.us" tvg-name="(no tvg-id)" tvg-logo="https://i.postimg.cc/fV6mkHBH/image.png" group-title="USA",CBS - WEST
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/81298.ts
 #EXTINF:-1 tvg-chno="23" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="USA",CBSN News
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/21259.ts
@@ -723,47 +724,53 @@ http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/18941.ts
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/85232.ts
 #EXTINF:-1 tvg-chno="369" tvg-id="YesNetwork.us" tvg-name="YesNetwork" tvg-logo="" group-title="Sports",Yes Network
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/57972.ts
-#EXTINF:-1 tvg-chno="370" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="" group-title="MLB",MLB Network
-http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/21360.ts
-#EXTINF:-1 tvg-chno="371" tvg-id="MLBStrikeZone.us" tvg-name="MLBStrikeZone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
-http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/65699.ts
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Mariners Vs Athletics (08.24 3:37 PM ET)
+
+
+
+
+#EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 01: Angels Vs Orioles (08.26 1:05 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66747.ts
-#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Angels Vs Orioles (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="373" tvg-id="MLB.us" tvg-name="MLB2" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 02: Reds Vs Brewers (08.26 2:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66748.ts
-#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Diamondbacks Vs Pirates (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="374" tvg-id="MLB.us" tvg-name="MLB3" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 03: White Sox Vs Blue Jays (08.26 3:07 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66750.ts
-#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rays Vs Phillies (08.24 7:05 PM ET)
+#EXTINF:-1 tvg-chno="375" tvg-id="MLB.us" tvg-name="MLB4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 04: Diamondbacks Vs Phillies (08.26 7:05 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66752.ts
-#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",White Sox Vs Blue Jays (08.24 7:07 PM ET)
+#EXTINF:-1 tvg-chno="376" tvg-id="MLB.us" tvg-name="MLB5" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 05: Cardinals Vs Pirates (08.26 7:05 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66753.ts
-#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Twins Vs Red Sox (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="377" tvg-id="MLB.us" tvg-name="MLB6" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 06: Twins Vs Red Sox (08.26 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66754.ts
-#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Giants Vs Mets (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="" group-title="MLB",MLB GAME 07: Giants Vs Mets (08.26 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66756.ts
-#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rangers Vs Indians (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="379" tvg-id="MLB.us" tvg-name="MLB8" tvg-logo="" group-title="MLB",MLB GAME 16: No Game
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66757.ts
-#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Nationals Vs Marlins (08.24 7:10 PM ET)
+#EXTINF:-1 tvg-chno="380" tvg-id="MLB.us" tvg-name="MLB9" tvg-logo="" group-title="MLB"MLB GAME 08: Rangers Vs Indians (08.26 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66758.ts
-#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Yankees Vs Braves (08.24 7:20 PM ET)
+#EXTINF:-1 tvg-chno="381" tvg-id="MLB.us" tvg-name="MLB10" tvg-logo="" group-title="MLB",MLB GAME 09: Nationals Vs Marlins (08.26 7:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66759.ts
-#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB"Tigers Vs Cardinals (08.24 7:45 PM ET)
+#EXTINF:-1 tvg-chno="382" tvg-id="MLB.us" tvg-name="MLB11" tvg-logo="" group-title="MLB"MLB GAME 10: Dodgers Vs Padres (08.26 9:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66760.ts
-#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Rockies Vs Cubs (08.24 8:05 PM ET)
+#EXTINF:-1 tvg-chno="378" tvg-id="MLB.us" tvg-name="MLB7" tvg-logo="" group-title="MLB",MLB GAME 11: Yankees Vs Athletics (08.26 9:40 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66761.ts
-#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Reds Vs Brewers (08.24 8:10 PM ET)
+#EXTINF:-1 tvg-chno="384" tvg-id="MLB.us" tvg-name="MLB13" tvg-logo="" group-title="MLB",MLB GAME 12: Royals Vs Mariners (08.26 10:10 PM ET)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/66762.ts
-#EXTINF:-1 tvg-chno="385" tvg-id="MLB.us" tvg-name="MLB14" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Royals Vs Astros (08.24 8:10 PM ET)
+#EXTINF:-1 tvg-chno="385" tvg-id="MLB.us" tvg-name="MLB14" tvg-logo="" group-title="MLB",MLB GAME 13: No Game
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/98210.ts
-#EXTINF:-1 tvg-chno="386" tvg-id="MLB.us" tvg-name="MLB15" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mlb-network-us.png" group-title="MLB",Dodgers Vs San Diego (08.24 10:00 PM ET)
+#EXTINF:-1 tvg-chno="386" tvg-id="MLB.us" tvg-name="MLB15" tvg-logo="" group-title="MLB",MLB GAME 14: No Game
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/98211.ts
-#EXTINF:-1 tvg-chno="387" tvg-id="MLB.us" tvg-name="MLB16" tvg-logo="" group-title="MLB",N/A
+#EXTINF:-1 tvg-chno="387" tvg-id="MLB.us" tvg-name="MLB16" tvg-logo="" group-title="MLB",MLB GAME 16: No Game
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/98212.ts
+
+
+
 
 #EXTINF:-1 tvg-chno="388" tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://i.dlpng.com/static/png/6896102_preview.png" group-title="NBA",NBA TV
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/20073.ts
 #EXTINF:-1 tvg-chno="389" tvg-id="NBA.ca" tvg-name="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",NBA TV CA
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/22995.ts
+
+
+
 #EXTINF:-1 tvg-chno="390" tvg-id="NFL.us" tvg-name="NFL" tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",NFL Network
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/83725.ts
 #EXTINF:-1 tvg-chno="391" tvg-id="NFL.us" tvg-name="NFL" tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",NFL Network*
@@ -772,8 +779,16 @@ http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/1836.ts
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/83724.ts
 #EXTINF:-1 tvg-chno="393" tvg-id="NFLRedZone.us" tvg-name="NFLRedZone" tvg-logo="https://www.pngfind.com/pngs/m/20-204118_nfl-redzone-nfl-red-zone-logo-hd-png.png" group-title="NFL",NFL REDZONE (US)
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/84529.ts
+
+
+
+
 #EXTINF:-1 tvg-chno="394" tvg-id="NHL.us" tvg-name="NHL" tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="NHL",NHL NETWORK
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/20179.ts
+
+
+
+
 #EXTINF:-1 tvg-chno="395" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD (Eng)2
 http://fortv.cc:8080/live/doemedia11@gmail.com/IfBstCyihL/86757.ts
 #EXTINF:-1 tvg-chno="396" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="" group-title="Soccer",AR: beIN Sports 1 FHD2
