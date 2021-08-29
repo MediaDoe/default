@@ -725,16 +725,18 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/57972.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11645.ts
 #EXTINF:-1 tvg-chno="265" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK*
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66820.ts
-#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="PPV Event | 01 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 01 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="PPV Event | 01 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 01 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83656.ts
-#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="PPV Event | 02 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 02 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="PPV Event | 02 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 02 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83657.ts
-#EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="PPV Event | 03 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 03 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+#EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="PPV Event | 03 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 03 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83658.ts
-#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="PPV Event | 04 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 04 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="PPV Event | 04 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 04 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83659.ts
-#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="PPV Event | 05 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 05 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="PPV Event | 05 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 05 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83660.ts
+#EXTINF:-1 tvg-chno="42" tvg-id="" tvg-name="PPV Event | 06 |" tvg-logo="https://i.postimg.cc/XNw3QJ2L/image.png" group-title="PPV | UFC",PPV Event | 06 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/78850.ts
 
 
 #EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 01: Angels Vs Orioles (08.26 1:05 PM ET)
