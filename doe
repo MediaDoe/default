@@ -526,14 +526,9 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17779.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/21091.ts
 #EXTINF:-1 tvg-chno="263" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",THRILLERMAX
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17774.ts
-#EXTINF:-1 tvg-chno="264" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK
-http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11645.ts
-#EXTINF:-1 tvg-chno="265" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK*
-http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66820.ts
-#EXTINF:-1 tvg-chno="266" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 01 | TBD
-http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83656
-#EXTINF:-1 tvg-chno="267" tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="https://i.postimg.cc/KYQz0sbB/image.png" group-title="PPV | UFC",PPV Event | 02 | TBD
-http://fortv.cc:8080/slingydoe@gmail.com/hlFu833yVA/83657
+
+
+
 #EXTINF:-1 tvg-chno="275" tvg-id="ESPNNews.us" tvg-name="ESPNNews" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN News
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/17707.ts
 #EXTINF:-1 tvg-chno="276" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports",ESPN HD
@@ -726,6 +721,20 @@ http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/85232.ts
 http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/57972.ts
 
 
+#EXTINF:-1 tvg-chno="264" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/11645.ts
+#EXTINF:-1 tvg-chno="265" tvg-id="Wwe.us" tvg-name="Wwe" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="PPV | UFC",WWE NETWORK*
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/66820.ts
+#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="PPV Event | 01 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 01 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83656
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="PPV Event | 02 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 02 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83657
+#EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="PPV Event | 03 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 03 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83658.ts
+#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="PPV Event | 04 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 04 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83659
+#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="PPV Event | 05 |" tvg-logo="" group-title="PPV | UFC",PPV Event | 05 | Paul vs. Woodley (8.29 8PM ET/5PM PT)
+http://fortv.cc:8080/live/slingydoe@gmail.com/hlFu833yVA/83660.ts
 
 
 #EXTINF:-1 tvg-chno="372" tvg-id="MLB.us" tvg-name="MLB1" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/mls-logo-us.png" group-title="MLB",MLB GAME 01: Angels Vs Orioles (08.26 1:05 PM ET)
